@@ -1,0 +1,23 @@
+* {background-color: blue;}
+
+header {
+
+font-size: 1rem;
+
+font: times;
+
+color: white;
+
+}
+
+p{
+
+font-size: 1rem;
+
+font: times;
+
+font-style: italic;
+
+color: white;
+
+}
