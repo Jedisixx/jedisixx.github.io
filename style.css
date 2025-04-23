@@ -8,16 +8,13 @@ font: times;
 
 color: white;
 
-}
+padding-top: 10px;
 
-p{
+padding-bottom: 10px;
 
-font-size: 1rem;
+padding-right: 10px;
 
-font: times;
-
-font-style: italic;
-
-color: white;
+padding-left: 10px;
 
 }
+
